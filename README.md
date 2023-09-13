@@ -1,2 +1,3 @@
-# Study-O
-스터디 관리 웹 서비스
+# J-log front
+### 참고
+- J-log : [이동](https://github.com/Jeensh/J-log)
